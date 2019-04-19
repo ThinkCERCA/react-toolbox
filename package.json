@@ -4,22 +4,6 @@
   "homepage": "http://www.react-toolbox.io",
   "version": "3.0.1",
   "main": "./lib",
-  "author": {
-    "name": "React Toolbox Team",
-    "url": "http://www.react-toolbox.io"
-  },
-  "contributors": [
-    {
-      "name": "Javi Jimenez Villar",
-      "email": "javi.jimenez.villar@gmail.com",
-      "url": "http://soyjavi.com/"
-    },
-    {
-      "name": "Javi Velasco Arjona",
-      "email": "javier.velasco86@gmail.com",
-      "url": "http://javivelasco.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thinkcerca/react-toolbox.git"
