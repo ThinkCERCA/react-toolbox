@@ -1,10 +1,6 @@
 language: node_js
 node_js:
-  - node
-  - lts/*
   - 10.13
-  - 8
-  - 6
 before_install:
   - npm i -g yarn@$(jq '.engines.yarn' package.json --raw-output)
   - export PATH="$(npm -g bin)/.yarn/bin:$PATH"
